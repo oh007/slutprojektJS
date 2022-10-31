@@ -7,7 +7,6 @@ body{
     margin: 0;
     font-size: 3.5vh;
     display: grid;
-    grid-template-columns: repeat(2,1fr);
     grid-template-areas: 
     'header header'
     'monster-showcase monster-showcase'
