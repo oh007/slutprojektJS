@@ -135,7 +135,9 @@ footer{
 #footer-text{
     margin: auto;
 }
-
+#monster-name{
+    font-size: x-large;
+}
 select{
 font-size: large;
 margin: 0;
